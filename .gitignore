@@ -5,3 +5,7 @@ Lab 2.pdf
 lab04-configuring-ci.docx
 Lab 04.docx
 Lab 04.pdf
+lab05-continuous-deployment.docx
+node_modules/
+.vscode/
+.DS_Store
